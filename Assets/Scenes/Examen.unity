@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 31019222}
   - component: {fileID: 31019223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (133)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 45211691}
   - component: {fileID: 45211692}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -303,7 +303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 67206959}
   - component: {fileID: 67206960}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,6 +380,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &77279091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 77279092}
+  - component: {fileID: 77279093}
+  m_Layer: 0
+  m_Name: Nuves_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &77279092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77279091}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.04552, y: 7.60384, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &77279093
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77279091}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -2294314869245580907, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &78296827
 GameObject:
   m_ObjectHideFlags: 0
@@ -390,7 +477,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78296828}
   - component: {fileID: 78296829}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -477,7 +564,7 @@ GameObject:
   m_Component:
   - component: {fileID: 109623423}
   - component: {fileID: 109623424}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (110)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -564,7 +651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 110231086}
   - component: {fileID: 110231087}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -651,7 +738,7 @@ GameObject:
   m_Component:
   - component: {fileID: 133534625}
   - component: {fileID: 133534626}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -738,7 +825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 144760433}
   - component: {fileID: 144760434}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -825,7 +912,7 @@ GameObject:
   m_Component:
   - component: {fileID: 149090275}
   - component: {fileID: 149090276}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (109)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -912,7 +999,7 @@ GameObject:
   m_Component:
   - component: {fileID: 165968971}
   - component: {fileID: 165968972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -999,7 +1086,7 @@ GameObject:
   m_Component:
   - component: {fileID: 187958645}
   - component: {fileID: 187958646}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1086,7 +1173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 187965098}
   - component: {fileID: 187965099}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (123)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1173,7 +1260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 195654994}
   - component: {fileID: 195654995}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1260,7 +1347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 199310609}
   - component: {fileID: 199310610}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (118)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1347,7 +1434,7 @@ GameObject:
   m_Component:
   - component: {fileID: 219331585}
   - component: {fileID: 219331586}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1424,6 +1511,180 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &222434309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 222434310}
+  - component: {fileID: 222434311}
+  m_Layer: 0
+  m_Name: Hierbas_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &222434310
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222434309}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.8452554, y: -2.287229, z: -0.010342912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2055726037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &222434311
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222434309}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 2637960408317240862, guid: b41df499e3d1c57478e9c7bfd5437f31, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.0625, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &237701157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 237701158}
+  - component: {fileID: 237701159}
+  m_Layer: 6
+  m_Name: Tuberias_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &237701158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237701157}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: 0.58396506, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 580520467}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &237701159
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237701157}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1188284511147389822, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &237887765
 GameObject:
   m_ObjectHideFlags: 0
@@ -1434,7 +1695,7 @@ GameObject:
   m_Component:
   - component: {fileID: 237887766}
   - component: {fileID: 237887767}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1511,6 +1772,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &245617436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 245617437}
+  - component: {fileID: 245617438}
+  m_Layer: 6
+  m_Name: Tuberias_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &245617437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245617436}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: -0.91603494, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1140718854}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &245617438
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245617436}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7514400526771584730, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &258039316
 GameObject:
   m_ObjectHideFlags: 0
@@ -1521,7 +1869,7 @@ GameObject:
   m_Component:
   - component: {fileID: 258039317}
   - component: {fileID: 258039318}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1608,7 +1956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 287501506}
   - component: {fileID: 287501507}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1685,6 +2033,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &310036864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 310036865}
+  - component: {fileID: 310036866}
+  m_Layer: 0
+  m_Name: Hierbas_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &310036865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310036864}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 41.95352, y: -2.353046, z: -0.010342912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2055726037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &310036866
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310036864}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 5839665991867518605, guid: b41df499e3d1c57478e9c7bfd5437f31, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4.125, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &328173059
 GameObject:
   m_ObjectHideFlags: 0
@@ -1695,7 +2130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 328173060}
   - component: {fileID: 328173061}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1772,6 +2207,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &330662182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 330662183}
+  - component: {fileID: 330662184}
+  m_Layer: 0
+  m_Name: Tuberias_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &330662183
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330662182}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: 0.58396506, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1158271876}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &330662184
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330662182}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1188284511147389822, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &333926794
 GameObject:
   m_ObjectHideFlags: 0
@@ -1782,7 +2304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 333926795}
   - component: {fileID: 333926796}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1869,7 +2391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 348472180}
   - component: {fileID: 348472181}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1956,7 +2478,7 @@ GameObject:
   m_Component:
   - component: {fileID: 366152737}
   - component: {fileID: 366152738}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2043,7 +2565,7 @@ GameObject:
   m_Component:
   - component: {fileID: 377783258}
   - component: {fileID: 377783259}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2130,7 +2652,7 @@ GameObject:
   m_Component:
   - component: {fileID: 425521063}
   - component: {fileID: 425521064}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2217,7 +2739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 489740864}
   - component: {fileID: 489740865}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2304,7 +2826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 500013142}
   - component: {fileID: 500013143}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2381,6 +2903,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &511253260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 511253261}
+  - component: {fileID: 511253262}
+  m_Layer: 0
+  m_Name: Montanas_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &511253261
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511253260}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.3355803, y: -0.7142794, z: -0.042003546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 866914520}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &511253262
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511253260}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -2
+  m_Sprite: {fileID: 3449376263256706332, guid: 8073f43ea4f18714dbf0b32f3b964e41, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.0625, y: 2.1875}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &551440559
 GameObject:
   m_ObjectHideFlags: 0
@@ -2391,7 +3000,7 @@ GameObject:
   m_Component:
   - component: {fileID: 551440560}
   - component: {fileID: 551440561}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2478,7 +3087,7 @@ GameObject:
   m_Component:
   - component: {fileID: 552342784}
   - component: {fileID: 552342785}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2565,7 +3174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 553148882}
   - component: {fileID: 553148883}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2652,7 +3261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 558914202}
   - component: {fileID: 558914203}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2729,6 +3338,87 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &580520465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 580520467}
+  - component: {fileID: 580520466}
+  m_Layer: 6
+  m_Name: Tuberia Grande
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &580520466
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580520465}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -5.6595974, y: -0.42215204}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.0053673, y: 4.0108504}
+  m_EdgeRadius: 0
+--- !u!4 &580520467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580520465}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 40.25, y: -2.61, z: 0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 934383080}
+  - {fileID: 656048428}
+  - {fileID: 237701158}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &585551886
 GameObject:
   m_ObjectHideFlags: 0
@@ -2739,7 +3429,7 @@ GameObject:
   m_Component:
   - component: {fileID: 585551887}
   - component: {fileID: 585551888}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2826,7 +3516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 591332461}
   - component: {fileID: 591332462}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2903,6 +3593,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &637478977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 637478978}
+  - component: {fileID: 637478979}
+  m_Layer: 0
+  m_Name: Nuves_1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &637478978
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637478977}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 70.21351, y: 7.6000357, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &637478979
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637478977}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -2294314869245580907, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &642217983
 GameObject:
   m_ObjectHideFlags: 0
@@ -2913,7 +3690,7 @@ GameObject:
   m_Component:
   - component: {fileID: 642217984}
   - component: {fileID: 642217985}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2990,6 +3767,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &656048427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 656048428}
+  - component: {fileID: 656048429}
+  m_Layer: 6
+  m_Name: Tuberias_1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &656048428
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656048427}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: -1.9160349, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 580520467}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &656048429
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656048427}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7514400526771584730, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &665472399
 GameObject:
   m_ObjectHideFlags: 0
@@ -3000,7 +3864,7 @@ GameObject:
   m_Component:
   - component: {fileID: 665472400}
   - component: {fileID: 665472401}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3087,7 +3951,7 @@ GameObject:
   m_Component:
   - component: {fileID: 703602813}
   - component: {fileID: 703602814}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3174,7 +4038,7 @@ GameObject:
   m_Component:
   - component: {fileID: 730489904}
   - component: {fileID: 730489905}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (127)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3261,7 +4125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 733636759}
   - component: {fileID: 733636760}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3348,7 +4212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 735737011}
   - component: {fileID: 735737012}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (125)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3522,7 +4386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 756091122}
   - component: {fileID: 756091123}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3609,7 +4473,7 @@ GameObject:
   m_Component:
   - component: {fileID: 763175258}
   - component: {fileID: 763175259}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (131)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3696,7 +4560,7 @@ GameObject:
   m_Component:
   - component: {fileID: 765805615}
   - component: {fileID: 765805616}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (111)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3783,7 +4647,7 @@ GameObject:
   m_Component:
   - component: {fileID: 790351480}
   - component: {fileID: 790351481}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3870,7 +4734,7 @@ GameObject:
   m_Component:
   - component: {fileID: 794389450}
   - component: {fileID: 794389451}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3957,7 +4821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 804773695}
   - component: {fileID: 804773696}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4044,7 +4908,7 @@ GameObject:
   m_Component:
   - component: {fileID: 836756918}
   - component: {fileID: 836756919}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4131,7 +4995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 861653718}
   - component: {fileID: 861653719}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (120)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4208,6 +5072,41 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &866914519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 866914520}
+  m_Layer: 0
+  m_Name: "Monta\xF1as"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &866914520
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866914519}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.587108, y: -3.2798412, z: 0.042003546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 511253261}
+  - {fileID: 1291878612}
+  - {fileID: 1821409445}
+  - {fileID: 1855013223}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &869345921
 GameObject:
   m_ObjectHideFlags: 0
@@ -4218,7 +5117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 869345922}
   - component: {fileID: 869345923}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (122)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4305,7 +5204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 872532820}
   - component: {fileID: 872532821}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4392,7 +5291,7 @@ GameObject:
   m_Component:
   - component: {fileID: 873812531}
   - component: {fileID: 873812532}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4479,7 +5378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 921423439}
   - component: {fileID: 921423440}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4648,6 +5547,93 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &934383079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 934383080}
+  - component: {fileID: 934383081}
+  m_Layer: 6
+  m_Name: Tuberias_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &934383080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 934383079}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: -0.91603494, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 580520467}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &934383081
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 934383079}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7514400526771584730, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &999779395
 GameObject:
   m_ObjectHideFlags: 0
@@ -4658,7 +5644,7 @@ GameObject:
   m_Component:
   - component: {fileID: 999779396}
   - component: {fileID: 999779397}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4735,6 +5721,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1002630124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002630125}
+  - component: {fileID: 1002630126}
+  m_Layer: 6
+  m_Name: Tuberias_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1002630125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002630124}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: 0.58396506, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1140718854}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1002630126
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002630124}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1188284511147389822, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1011940751
 GameObject:
   m_ObjectHideFlags: 0
@@ -4745,7 +5818,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1011940752}
   - component: {fileID: 1011940753}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4832,7 +5905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1016232609}
   - component: {fileID: 1016232610}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (130)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4919,7 +5992,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1047628650}
   - component: {fileID: 1047628651}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4996,6 +6069,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1049879625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1049879626}
+  - component: {fileID: 1049879627}
+  m_Layer: 0
+  m_Name: Nuves_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1049879626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1049879625}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.1053524, y: 7.5711517, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1049879627
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1049879625}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1441059859138285547, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1061142409
 GameObject:
   m_ObjectHideFlags: 0
@@ -5006,7 +6166,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1061142410}
   - component: {fileID: 1061142411}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5093,7 +6253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1063295545}
   - component: {fileID: 1063295546}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5180,7 +6340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1084750686}
   - component: {fileID: 1084750687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5267,7 +6427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1090949916}
   - component: {fileID: 1090949917}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5354,7 +6514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1093333349}
   - component: {fileID: 1093333350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5441,7 +6601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1108457467}
   - component: {fileID: 1108457468}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5528,7 +6688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124313875}
   - component: {fileID: 1124313876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5615,7 +6775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1127154731}
   - component: {fileID: 1127154732}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5702,7 +6862,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1131819590}
   - component: {fileID: 1131819591}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5779,6 +6939,167 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1140718852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1140718854}
+  - component: {fileID: 1140718853}
+  m_Layer: 6
+  m_Name: Tuberia Grande (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &1140718853
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140718852}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -5.6595974, y: -0.42215204}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.0053673, y: 4.0108504}
+  m_EdgeRadius: 0
+--- !u!4 &1140718854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140718852}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 51.31, y: -2.61, z: 0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 245617437}
+  - {fileID: 1532909772}
+  - {fileID: 1002630125}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1158271874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1158271876}
+  - component: {fileID: 1158271875}
+  m_Layer: 0
+  m_Name: Tuberia mediana
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &1158271875
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158271874}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -5.6581154, y: 0.08118081}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.005581, y: 3.013257}
+  m_EdgeRadius: 0
+--- !u!4 &1158271876
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158271874}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 32.227634, y: -3.609965, z: 0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1616202147}
+  - {fileID: 330662183}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1159057931
 GameObject:
   m_ObjectHideFlags: 0
@@ -5789,7 +7110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1159057932}
   - component: {fileID: 1159057933}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5876,7 +7197,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1161736675}
   - component: {fileID: 1161736676}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5963,7 +7284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1162828562}
   - component: {fileID: 1162828563}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (136)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6050,7 +7371,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1164667862}
   - component: {fileID: 1164667863}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6137,7 +7458,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1169164788}
   - component: {fileID: 1169164789}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6224,7 +7545,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1179340316}
   - component: {fileID: 1179340317}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6311,7 +7632,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1188649255}
   - component: {fileID: 1188649256}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6398,7 +7719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1190636266}
   - component: {fileID: 1190636267}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6485,7 +7806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1192459148}
   - component: {fileID: 1192459149}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6572,7 +7893,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197481790}
   - component: {fileID: 1197481791}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6659,7 +7980,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1208337205}
   - component: {fileID: 1208337206}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6736,6 +8057,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1209978682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1209978683}
+  - component: {fileID: 1209978684}
+  m_Layer: 0
+  m_Name: Hierbas_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1209978683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1209978682}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.0420465, y: -2.267229, z: -0.010342912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2055726037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1209978684
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1209978682}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 5839665991867518605, guid: b41df499e3d1c57478e9c7bfd5437f31, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.66, y: 0.16}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1232313882
 GameObject:
   m_ObjectHideFlags: 0
@@ -6746,7 +8154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1232313883}
   - component: {fileID: 1232313884}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6833,7 +8241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1235422635}
   - component: {fileID: 1235422636}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6920,7 +8328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1242253445}
   - component: {fileID: 1242253446}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7007,7 +8415,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278045589}
   - component: {fileID: 1278045590}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (119)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7094,7 +8502,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278974471}
   - component: {fileID: 1278974472}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7181,7 +8589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1279954035}
   - component: {fileID: 1279954036}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (134)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7258,6 +8666,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1291878611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1291878612}
+  - component: {fileID: 1291878613}
+  m_Layer: 0
+  m_Name: Montanas_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1291878612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291878611}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.766325, y: -1.1677897, z: -0.042003546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 866914520}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1291878613
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291878611}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 2570714387276610951, guid: 8073f43ea4f18714dbf0b32f3b964e41, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.0625, y: 1.25}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1297829784
 GameObject:
   m_ObjectHideFlags: 0
@@ -7268,7 +8763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1297829785}
   - component: {fileID: 1297829786}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7355,7 +8850,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314765980}
   - component: {fileID: 1314765981}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7442,7 +8937,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1336820050}
   - component: {fileID: 1336820051}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7529,7 +9024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1352247851}
   - component: {fileID: 1352247852}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7606,6 +9101,140 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1353610189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1353610190}
+  - component: {fileID: 1353610192}
+  - component: {fileID: 1353610191}
+  m_Layer: 0
+  m_Name: "Tuberia Peque\xF1a"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1353610190
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353610189}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6390343, y: 0.4238882, z: -0.05168988}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1538277115}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1353610191
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353610189}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2, y: 2}
+  m_EdgeRadius: 0
+--- !u!212 &1353610192
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353610189}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -1
+  m_Sprite: {fileID: 1188284511147389822, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1387732921
 GameObject:
   m_ObjectHideFlags: 0
@@ -7616,7 +9245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1387732922}
   - component: {fileID: 1387732923}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (129)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7703,7 +9332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1389967327}
   - component: {fileID: 1389967328}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7790,7 +9419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1401543153}
   - component: {fileID: 1401543154}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7877,7 +9506,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1428231498}
   - component: {fileID: 1428231499}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7964,7 +9593,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1442642585}
   - component: {fileID: 1442642586}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8051,7 +9680,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1447710772}
   - component: {fileID: 1447710773}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8138,7 +9767,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1464681182}
   - component: {fileID: 1464681183}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8225,7 +9854,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1465803542}
   - component: {fileID: 1465803543}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8302,6 +9931,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1484437789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1484437790}
+  - component: {fileID: 1484437791}
+  m_Layer: 0
+  m_Name: Nuves_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1484437790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484437789}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.700863, y: 8.649717, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1484437791
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484437789}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -2103933050392813645, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.0625, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1487020899
 GameObject:
   m_ObjectHideFlags: 0
@@ -8312,7 +10028,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1487020900}
   - component: {fileID: 1487020901}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (137)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8399,7 +10115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1513086360}
   - component: {fileID: 1513086361}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8486,7 +10202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1521669896}
   - component: {fileID: 1521669897}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8563,6 +10279,212 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1532909771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1532909772}
+  - component: {fileID: 1532909773}
+  m_Layer: 6
+  m_Name: Tuberias_1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1532909772
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532909771}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: -1.9160349, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1140718854}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1532909773
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532909771}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7514400526771584730, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1538277114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1538277115}
+  m_Layer: 0
+  m_Name: Tuberias
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1538277115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1538277114}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.966818, y: -4.5219994, z: 0.05168988}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1353610190}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1538639108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1538639109}
+  - component: {fileID: 1538639110}
+  m_Layer: 0
+  m_Name: Hierbas_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1538639109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1538639108}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 23.42161, y: -2.2863846, z: -0.010342912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2055726037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1538639110
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1538639108}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: -260627620106043794, guid: b41df499e3d1c57478e9c7bfd5437f31, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.0625, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1541184644
 GameObject:
   m_ObjectHideFlags: 0
@@ -8573,7 +10495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1541184645}
   - component: {fileID: 1541184646}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8660,7 +10582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1557205170}
   - component: {fileID: 1557205171}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8747,7 +10669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1558845634}
   - component: {fileID: 1558845635}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8824,6 +10746,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1559339456
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1559339457}
+  - component: {fileID: 1559339458}
+  m_Layer: 0
+  m_Name: Nuves_2 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1559339457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1559339456}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 50.147736, y: 7.6310015, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1559339458
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1559339456}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1441059859138285547, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1566871549
 GameObject:
   m_ObjectHideFlags: 0
@@ -8834,7 +10843,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566871550}
   - component: {fileID: 1566871551}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8921,7 +10930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1568746949}
   - component: {fileID: 1568746950}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9008,7 +11017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1575664890}
   - component: {fileID: 1575664891}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9095,7 +11104,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1592361588}
   - component: {fileID: 1592361589}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9182,7 +11191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1596074417}
   - component: {fileID: 1596074418}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9259,6 +11268,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1616202146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1616202147}
+  - component: {fileID: 1616202148}
+  m_Layer: 0
+  m_Name: Tuberias_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1616202147
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616202146}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.6595345, y: -0.91603494, z: -0.06802808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1158271876}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1616202148
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616202146}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7514400526771584730, guid: 2120cd9c930eec347a49312cdc9bc2b9, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1626589916
 GameObject:
   m_ObjectHideFlags: 0
@@ -9269,7 +11365,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1626589917}
   - component: {fileID: 1626589918}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9356,7 +11452,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1659708573}
   - component: {fileID: 1659708574}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9443,7 +11539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1691530500}
   - component: {fileID: 1691530501}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9530,7 +11626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1692938773}
   - component: {fileID: 1692938774}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9617,7 +11713,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1709451991}
   - component: {fileID: 1709451992}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9704,7 +11800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1718196922}
   - component: {fileID: 1718196923}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9791,7 +11887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1719754360}
   - component: {fileID: 1719754361}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9878,7 +11974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1719934480}
   - component: {fileID: 1719934481}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9965,7 +12061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1721177935}
   - component: {fileID: 1721177936}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10052,7 +12148,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1725749823}
   - component: {fileID: 1725749824}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10139,7 +12235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1742409880}
   - component: {fileID: 1742409881}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10226,7 +12322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1767963838}
   - component: {fileID: 1767963839}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10313,7 +12409,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1797198761}
   - component: {fileID: 1797198762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10400,7 +12496,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1807764868}
   - component: {fileID: 1807764869}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10477,6 +12573,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1821409444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1821409445}
+  - component: {fileID: 1821409446}
+  m_Layer: 0
+  m_Name: Montanas_1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1821409445
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821409444}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 45.62318, y: -0.78230596, z: -0.042003546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 866914520}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1821409446
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821409444}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 3449376263256706332, guid: 8073f43ea4f18714dbf0b32f3b964e41, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.0625, y: 2.1875}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1833705254
 GameObject:
   m_ObjectHideFlags: 0
@@ -10487,7 +12670,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1833705255}
   - component: {fileID: 1833705256}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10574,7 +12757,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1841596025}
   - component: {fileID: 1841596026}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10661,7 +12844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1847603643}
   - component: {fileID: 1847603644}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10748,7 +12931,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1850804707}
   - component: {fileID: 1850804708}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10835,7 +13018,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1852344814}
   - component: {fileID: 1852344815}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (124)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10912,6 +13095,218 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1855013222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1855013223}
+  - component: {fileID: 1855013224}
+  m_Layer: 0
+  m_Name: Montanas_0 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1855013223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855013222}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 60.72509, y: -1.1904662, z: -0.042003546}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 866914520}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1855013224
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855013222}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -3
+  m_Sprite: {fileID: 2570714387276610951, guid: 8073f43ea4f18714dbf0b32f3b964e41, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.0625, y: 1.25}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1866311631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1866311632}
+  - component: {fileID: 1866311633}
+  m_Layer: 0
+  m_Name: Nuves_2 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1866311632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1866311631}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 13.186856, y: 8.649881, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1866311633
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1866311631}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1441059859138285547, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1873638479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1873638480}
+  m_Layer: 0
+  m_Name: Nubes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1873638480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1873638479}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.049905, y: -3.25, z: 0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1049879626}
+  - {fileID: 1866311632}
+  - {fileID: 77279092}
+  - {fileID: 1484437790}
+  - {fileID: 1559339457}
+  - {fileID: 2145555947}
+  - {fileID: 637478978}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1902913673
 GameObject:
   m_ObjectHideFlags: 0
@@ -10922,7 +13317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1902913674}
   - component: {fileID: 1902913675}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11009,7 +13404,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1917242699}
   - component: {fileID: 1917242700}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11096,7 +13491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1917576215}
   - component: {fileID: 1917576216}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11183,7 +13578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1935853277}
   - component: {fileID: 1935853278}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11270,7 +13665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1937911431}
   - component: {fileID: 1937911432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (128)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11357,7 +13752,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1941146506}
   - component: {fileID: 1941146507}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11444,7 +13839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1941656476}
   - component: {fileID: 1941656477}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11531,7 +13926,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1952555248}
   - component: {fileID: 1952555249}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11725,7 +14120,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 25.691338, y: -1.4920781}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11735,7 +14130,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 69.0136, y: 2.0087953}
   m_EdgeRadius: 0
 --- !u!1 &1965058141
 GameObject:
@@ -11747,7 +14142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1965058142}
   - component: {fileID: 1965058143}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (135)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11834,7 +14229,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1977226697}
   - component: {fileID: 1977226698}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11921,7 +14316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1978382062}
   - component: {fileID: 1978382063}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12008,7 +14403,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1992054834}
   - component: {fileID: 1992054835}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12095,7 +14490,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2000391381}
   - component: {fileID: 2000391382}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (121)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12182,7 +14577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2009967858}
   - component: {fileID: 2009967859}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12259,6 +14654,41 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2055726036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2055726037}
+  m_Layer: 0
+  m_Name: Hierbas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2055726037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055726036}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.2220464, y: -2.2627711, z: 0.010342912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1209978683}
+  - {fileID: 222434310}
+  - {fileID: 1538639109}
+  - {fileID: 310036865}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2086214631
 GameObject:
   m_ObjectHideFlags: 0
@@ -12269,7 +14699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2086214632}
   - component: {fileID: 2086214633}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (132)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12356,7 +14786,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2113043510}
   - component: {fileID: 2113043511}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12433,6 +14863,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2145555946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2145555947}
+  - component: {fileID: 2145555948}
+  m_Layer: 0
+  m_Name: Nuves_2 (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2145555947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145555946}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 61.20249, y: 8.559973, z: -0.029340072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1873638480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2145555948
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145555946}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1441059859138285547, guid: 75d36d81b4564974ca830aa91f60dbf7, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.125, y: 1.5625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &2147075943
 GameObject:
   m_ObjectHideFlags: 0
@@ -12443,7 +14960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2147075944}
   - component: {fileID: 2147075945}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ladrillos_12 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12526,4 +15043,11 @@ SceneRoots:
   m_Roots:
   - {fileID: 924556621}
   - {fileID: 737134008}
+  - {fileID: 2055726037}
+  - {fileID: 866914520}
+  - {fileID: 1873638480}
   - {fileID: 1952555248}
+  - {fileID: 1538277115}
+  - {fileID: 1158271876}
+  - {fileID: 580520467}
+  - {fileID: 1140718854}
