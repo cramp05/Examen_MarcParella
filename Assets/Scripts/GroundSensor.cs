@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class GroundSensor : MonoBehaviour
 {
-    
+    public GroundSensor isGrouned;
     void Start()
     {
         
@@ -10,6 +10,10 @@ public class GroundSensor : MonoBehaviour
 
 
     void Update()
+    {
+        
+    }
+    void OnTriggerEnter(Collider other)
     {
         
     }
