@@ -2,7 +2,7 @@ using UnityEngine;
 Using UnityEngine.InputSystem; //para usar la libreria de imput sistem
 
 
-public class PruevaExamen : MonoBehaviour
+public class PlayerControler : MonoBehaviour
 {
     public Rigidbody2d rBody2D; //variable para contontrolar el rigidvody
     private InputAction moveAction; //Almacenamos los imputs de las teclas de movimiento
