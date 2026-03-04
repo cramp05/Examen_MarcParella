@@ -5724,6 +5724,7 @@ GameObject:
   - component: {fileID: 954371866}
   - component: {fileID: 954371865}
   - component: {fileID: 954371864}
+  - component: {fileID: 954371868}
   m_Layer: 0
   m_Name: Mario_0
   m_TagString: Untagged
@@ -5875,6 +5876,22 @@ Transform:
   - {fileID: 894567129}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &954371868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 954371863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b662be149c9924a8eb4e9da4eb627c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDirection: {x: 0, y: 0}
+  rBody2D: {fileID: 0}
+  moveSpeed: 5
+  jumpForce: 10
 --- !u!1 &999779395
 GameObject:
   m_ObjectHideFlags: 0
