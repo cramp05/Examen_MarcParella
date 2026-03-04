@@ -6,13 +6,7 @@ public class GroundSensor : MonoBehaviour
 
     public bool ground = true;
 
-    void /// <summary>
-    /// Awake is called when the script instance is being loaded.
-    /// </summary>
-    void Awake()
-    {
-        isGrouned = ground;
-    }
+ 
     void Start()
     {
         

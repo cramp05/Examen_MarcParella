@@ -38,7 +38,7 @@ public class PlayerControler : MonoBehaviour
 
         moveDirection = moveAction.ReadValue<Vector2>(); 
          
-        if(jumpAction.WasPressedThisFrame() && sensor.isGrouned) 
+        if(jumpAction.WasPressedThisFrame() ) //&& sensor.grouned
         {
             rBody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse); 
         }
