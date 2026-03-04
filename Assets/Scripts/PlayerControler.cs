@@ -17,17 +17,12 @@ public class PlayerControler : MonoBehaviour
    
     void Awake()
     {
-        //sensor = GetComponentsInChildren<"GroundSensor">("GroundSensor");
+        sensor = GetComponentInChildren<GroundSensor>();
         rBody2D = GetComponent<Rigidbody2D>(); 
 
 
         moveAction = InputSystem.actions["Move"]; 
         jumpAction = InputSystem.actions["Jump"]; 
-
-        moveDirection = moveAction.ReadValue<Vector2>(); 
-
-
-        //sensor = GetComponentInChildren<GroundSensor>(); 
 
     }
 
@@ -40,10 +35,10 @@ public class PlayerControler : MonoBehaviour
 
     void Update()
     {
+
+        moveDirection = moveAction.ReadValue<Vector2>(); 
          
-
-
-        if(jumpAction.WasPressedThisFrame() ) //&& sensor.isGrouned
+        if(jumpAction.WasPressedThisFrame() && sensor.isGrouned) 
         {
             rBody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse); 
         }
